@@ -1,3 +1,3 @@
-### JSCompiler, JIT VS OAT, Event Loops, Callback Queues
+JSCompiler, JIT VS OAT, Event Loops, Callback Queues
 
-### Bundling - Rollup, Webpack,
+Bundling - Rollup, Webpack,
